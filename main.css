@@ -1,0 +1,55 @@
+
+
+div{
+  border: 1px solid blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+  background-color: #333333;
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+#footer-head-container{
+  color: #D3820B;
+  font-weight: bold;
+  line-height: 36px;
+  font-size: 24px;
+  margin: auto;
+  width: 100px;
+}
+
+#phone-container{
+  margin: auto;
+  width: 50%;
+  height: 100px;
+}
+
+#phone-image-container{
+  width: 5px;
+  display: inline-block;
+}
+
+#phone-num-container{
+  width: 500px;
+  display: inline-block;
+}
+
+#phone-img-container img{
+  width: 25px;
+  height: 25px;
+}
